@@ -1,6 +1,9 @@
-# movies_riverpod
+# movies_flutter_riverpod
 
-A new Flutter project.
+Movies App using :
+Riverpod
+Dio
+GetIT
 
 ## Getting Started
 
